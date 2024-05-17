@@ -12,6 +12,7 @@ específico.
 3. Componente de Seleção Automática:
 • Criar um componente que, ao selecionar um estado, automaticamente 
 exiba um select com todas as cidades do estado selecionado.
+
 Regras:
 1. Devem ser criados três componentes distintos.
 2. Os componentes de Estado e Cidade devem funcionar independentemente 
